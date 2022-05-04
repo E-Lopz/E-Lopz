@@ -3,10 +3,10 @@
 -->
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
+<p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=1ED760&lines=Hello!!!;Welcome+to+Emiliano's+digital+space.+0)](https://git.io/typing-svg"></a>
 </p>
 
 - 🌱 I’m currently learning React and C
-- 📫 How to reach me: emiliano.lopez2404@gmail.com
 - 👀 I’m interested in Deep Learning and Game Development
+- 📫 How to reach me: emiliano.lopez2404@gmail.com
