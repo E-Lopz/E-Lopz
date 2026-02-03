@@ -7,6 +7,5 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=1ED760&lines=Hello!!!;Welcome+to+Emiliano's+digital+space+---.+0)](https://git.io/typing-svg"></a>
 </p>
 
-- 🌱 I’m currently learning C++
-- 👀 I’m interested in Deep Learning and Quantum Information
+- 👀 I’m interested in Deep Learning and Robotics
 - 📫 How to reach me: emiliano.lopez2404@gmail.com
